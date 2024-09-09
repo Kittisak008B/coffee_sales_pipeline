@@ -1,0 +1,1 @@
+# Airflow schedule for inserting data into the database
