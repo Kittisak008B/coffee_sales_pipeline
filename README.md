@@ -22,5 +22,5 @@
   <img src="./pics/data_in_bq.png" width="1000"> <br>
   data has been successfully loaded into BigQuery(Data warehouse) <br><br>
   <img src="./pics/querydata.png" width="800"> <br>
-  query data
+  query data *Customer names are fake names
 </p>
