@@ -1,5 +1,9 @@
 <h1> coffee_sales_pipeline </h1> 
 <p align="center">
+  <img src="./pics/overview.png" width="1000"> <br>
+</p>
+
+<p align="center">
   <img src="./pics/coffee_sales_dag.png" width="1000"> <br>
   Sales Data Pipeline DAG
 </p>
